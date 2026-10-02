@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.jinauto.tiktokposter",
+      "sha256_cert_fingerprints": ["8A3B6CB968AC556E618EFB8F6684D718BAFF3607A203FDF6CB6998BF83317784"]
+    }
+  }
+]
